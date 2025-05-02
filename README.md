@@ -6,13 +6,13 @@ I am an MS student at Virginia Tech and a research assistant at the Uncrewed Sys
 
 My projects:
 
--Object detection in images
+-[Object detection in images](https://github.com/rutvikd1/Object-Detection): Implemented object detection on nuScenes dataset using Tensorflow object detection API. Utilized SSD architecture with Resnet50 backbone while tuning for scale and aspect ratios of the anchor boxes. 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rutvikd1/Object-Detection/blob/main/experiments/ssd-7layers/inference/output.gif">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/rutvikd1/Object-Detection/blob/main/experiments/ssd-7layers/inference/output.gif", width = "50%">
 </picture>
 
--Radio source localization
+-[Radio source localization](https://github.com/rutvikd1/RF_localization)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rutvikd1/RF_localization/blob/main/images/Drone_with_payload.jpeg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/rutvikd1/RF_localization/blob/main/images/Drone_with_payload.jpeg", width = "50%">
