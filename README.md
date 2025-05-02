@@ -12,7 +12,8 @@ My projects:
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/rutvikd1/Object-Detection/blob/main/experiments/ssd-7layers/inference/output.gif", width = "50%">
 </picture>
 
--[Radio source localization](https://github.com/rutvikd1/RF_localization)
+-[Radio source localization](https://github.com/rutvikd1/RF_localization): Developed a ROS package for synchronized data acquisition from RTK-GPS and SDR. This data was utilized to implement NLS localizer, achieving an accuracy of < 1 meter.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rutvikd1/RF_localization/blob/main/images/Drone_with_payload.jpeg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/rutvikd1/RF_localization/blob/main/images/Drone_with_payload.jpeg", width = "50%">
