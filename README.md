@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Rutvik Dagdkhair
 
-I am an MS student at Virginia Tech and a research assistant at the Uncrewed Systems Lab, where I am developing path planning algorithms for agricultural UAVs.
-
+I am a master's student at Virginia Tech and a research assistant at the Uncrewed Systems Lab, where I focus on developing advanced path planning algorithms for agricultural UAVs
+My core interests lie in developing robust perception and control solutions for robots
 #### Skills: Python / C++ / ROS / Tensorflow / Sensor Fusion
 
 My projects:
